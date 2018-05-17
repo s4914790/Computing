@@ -1,0 +1,267 @@
+Profile is 4 5
+Using GLEW 2.1.0
+ngl:: configured with GL version 4.5
+Compiling Shader nglTextVertex
+Compiling Shader nglTextFragment
+Linking nglTextShader
+linking Shader nglTextShader
+Compiling Shader nglColourVertex
+Compiling Shader nglColourFragment
+Linking nglColourShader
+linking Shader nglColourShader
+Compiling Shader nglDiffuseVertex
+Compiling Shader nglDiffuseFragment
+Linking nglDiffuseShader
+linking Shader nglDiffuseShader
+Compiling Shader nglToonVertex
+Compiling Shader nglToonFragment
+Linking nglToonShader
+linking Shader nglToonShader
+creating empty ShaderProgram EnvironmentProgram
+just attached EnvironmentProgramVertex 14
+just attached EnvironmentProgramFragment 15
+deleting existing source code
+deleting existing source code
+Compiling Shader EnvironmentProgramVertex
+Compiling Shader EnvironmentProgramFragment
+EnvironmentProgramVertex attached to program EnvironmentProgram
+EnvironmentProgramFragment attached to program EnvironmentProgram
+Linking EnvironmentProgram
+linking Shader EnvironmentProgram
+creating empty ShaderProgram SkyProgram
+just attached SkyProgramVertex 17
+just attached SkyProgramFragment 18
+deleting existing source code
+deleting existing source code
+Compiling Shader SkyProgramVertex
+Compiling Shader SkyProgramFragment
+SkyProgramVertex attached to program SkyProgram
+SkyProgramFragment attached to program SkyProgram
+Linking SkyProgram
+linking Shader SkyProgram
+creating empty ShaderProgram TableProgram
+just attached TableProgramVertex 20
+just attached TableProgramFragment 21
+deleting existing source code
+deleting existing source code
+Compiling Shader TableProgramVertex
+Compiling Shader TableProgramFragment
+TableProgramVertex attached to program TableProgram
+TableProgramFragment attached to program TableProgram
+Linking TableProgram
+linking Shader TableProgram
+creating empty ShaderProgram CrystalProgram
+just attached CrystalProgramVertex 23
+just attached CrystalProgramFragment 24
+deleting existing source code
+deleting existing source code
+Compiling Shader CrystalProgramVertex
+Compiling Shader CrystalProgramFragment
+CrystalProgramVertex attached to program CrystalProgram
+CrystalProgramFragment attached to program CrystalProgram
+Linking CrystalProgram
+linking Shader CrystalProgram
+loading with QImage
+size 512 512
+channels 4
+loading with QImage
+size 512 512
+channels 4
+loading with QImage
+size 512 512
+channels 4
+loading with QImage
+size 512 512
+channels 4
+loading with QImage
+size 512 512
+channels 4
+loading with QImage
+size 512 512
+channels 4
+loading with QImage
+size 1024 1024
+channels 3
+loading with QImage
+size 730 400
+channels 3
+loading with QImage
+error loading image data/level_normal.jpg
+loading with QImage
+error loading image data/level_color.jpg
+loading with QImage
+size 1300 1300
+channels 3
+loading with QImage
+size 2048 2048
+channels 3
+loading with QImage
+size 1024 1024
+channels 3
+loading with QImage
+size 1024 1024
+channels 3
+loading with QImage
+size 1024 1024
+channels 3
+loading with QImage
+size 1024 1024
+channels 3
+loading with QImage
+size 1024 1024
+channels 3
+Doing Tri Data
+Doing Tri Data
+Doing Tri Data
+Doing Tri Data
+Doing Tri Data
+loading with QImage
+size 307 307
+channels 3
+Doing Tri Data
+Current Frame 0.783
+Current Frame 0.809
+Current Frame 0.823
+Current Frame 0.847
+Current Frame 0.856
+Current Frame 0.873
+Current Frame 0.889
+Current Frame 0.906
+Current Frame 0.923
+Current Frame 0.939
+Current Frame 0.956
+Current Frame 0.973
+Current Frame 0.989
+Current Frame 1.006
+Current Frame 1.033
+Current Frame 1.039
+Current Frame 1.056
+Current Frame 1.073
+Current Frame 1.09
+Current Frame 1.106
+Current Frame 1.123
+Current Frame 1.14
+Current Frame 1.156
+Current Frame 1.173
+Current Frame 1.19
+Current Frame 1.206
+Current Frame 1.223
+Current Frame 1.24
+Current Frame 1.256
+Current Frame 1.273
+Current Frame 1.29
+Current Frame 1.306
+Current Frame 1.323
+Current Frame 1.34
+Current Frame 1.356
+Current Frame 1.373
+Current Frame 1.39
+Current Frame 1.406
+Current Frame 1.423
+Current Frame 1.44
+Current Frame 1.456
+Current Frame 1.473
+Current Frame 1.49
+Current Frame 1.507
+Current Frame 1.523
+Current Frame 1.54
+Current Frame 1.557
+Current Frame 1.573
+Current Frame 1.59
+Current Frame 1.607
+Current Frame 1.623
+Current Frame 1.64
+Current Frame 1.657
+Current Frame 1.673
+Current Frame 1.69
+Current Frame 1.707
+Current Frame 1.723
+Current Frame 1.74
+Current Frame 1.757
+Current Frame 1.773
+Current Frame 1.79
+Current Frame 1.807
+Current Frame 1.823
+Current Frame 1.84
+Current Frame 1.857
+Current Frame 1.873
+Current Frame 1.89
+Current Frame 1.907
+Current Frame 1.923
+Current Frame 1.94
+Current Frame 1.957
+Current Frame 1.974
+Current Frame 1.99
+Current Frame 2.007
+Current Frame 2.024
+Current Frame 2.04
+Current Frame 2.057
+Current Frame 2.074
+Current Frame 2.09
+Current Frame 2.107
+Current Frame 2.124
+Current Frame 2.14
+Current Frame 2.157
+Current Frame 2.174
+Current Frame 2.19
+Current Frame 2.207
+Current Frame 2.224
+Current Frame 2.24
+Current Frame 2.257
+Current Frame 2.274
+Current Frame 2.29
+Current Frame 2.307
+Current Frame 2.324
+Current Frame 2.34
+Current Frame 2.357
+Current Frame 2.374
+Current Frame 2.391
+Current Frame 2.407
+Current Frame 2.424
+Current Frame 2.441
+Current Frame 2.457
+Current Frame 2.474
+Current Frame 2.491
+Current Frame 2.507
+Current Frame 2.524
+Current Frame 2.541
+Current Frame 2.557
+Current Frame 2.574
+Current Frame 2.591
+Current Frame 2.607
+Current Frame 2.624
+Current Frame 2.641
+Current Frame 2.657
+Current Frame 2.674
+Current Frame 2.691
+Current Frame 2.707
+Current Frame 2.724
+Current Frame 2.741
+Current Frame 2.758
+Shutting down NGL, removing VAO's and Shaders
+Closing down shader manager
+removing ShaderProgram CrystalProgram
+removing ShaderProgram SkyProgram
+removing ShaderProgram TableProgram
+removing ShaderProgram EnvironmentProgram
+removing ShaderProgram nglToonShader
+removing ShaderProgram nglTextShader
+removing ShaderProgram NULL
+removing ShaderProgram nglColourShader
+removing ShaderProgram nglDiffuseShader
+removing shader CrystalProgramVertex
+removing shader CrystalProgramFragment
+removing shader TableProgramVertex
+removing shader SkyProgramFragment
+removing shader SkyProgramVertex
+removing shader nglColourVertex
+removing shader nglTextFragment
+removing shader nglColourFragment
+removing shader nglTextVertex
+removing shader TableProgramFragment
+removing shader nglDiffuseFragment
+removing shader nglToonFragment
+removing shader nglDiffuseVertex
+removing shader nglToonVertex
+removing shader EnvironmentProgramFragment
+removing shader EnvironmentProgramVertex

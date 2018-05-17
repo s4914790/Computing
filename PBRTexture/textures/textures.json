@@ -1,0 +1,160 @@
+{
+    "TexturePack": {
+    "material": "sky",
+    "Textures"  : [
+      {
+        "location": 0,
+        "name": "albedoMap",
+        "path" : "textures/skybox/sky.jpg"
+      },
+      {
+        "location": 1,
+        "name": "normalMap",
+        "path" : "textures/skybox/normal.png"
+      },
+      {
+        "location": 2,
+        "name": "metallicMap",
+        "path" : "textures/skybox/metallic.png"
+      },
+      {
+        "location": 3,
+        "name": "roughnessMap",
+        "path" : "textures/skybox/roughness.png"
+      },
+      {
+        "location": 4,
+        "name": "aoMap",
+        "path" : "textures/skybox/ao.png"
+      }
+      ]
+   },
+    "TexturePack": {
+    "material": "level",
+    "Textures"  : [
+      {
+        "location": 0,
+        "name": "albedoMap",
+        "path" : "textures/level/albedo.png"
+      },
+      {
+        "location": 1,
+        "name": "normalMap",
+        "path" : "textures/level/normal.png"
+      },
+      {
+        "location": 2,
+        "name": "metallicMap",
+        "path" : "textures/level/metallic.png"
+      },
+      {
+        "location": 3,
+        "name": "roughnessMap",
+        "path" : "textures/level/roughness.png"
+      },
+      {
+        "location": 4,
+        "name": "aoMap",
+        "path" : "textures/level/ao.png"
+      }
+      ]
+   },
+    "TexturePack": {
+    "material": "crystal1",
+    "Textures"  : [
+      {
+        "location": 0,
+        "name": "albedoMap",
+        "path" : "textures/crystal1/albedo.png"
+      },
+      {
+        "location": 1,
+        "name": "normalMap",
+        "path" : "textures/crystal1/normal.png"
+      },
+      {
+        "location": 2,
+        "name": "metallicMap",
+        "path" : "textures/crystal1/metallic.png"
+      },
+      {
+        "location": 3,
+        "name": "roughnessMap",
+        "path" : "textures/crystal1/roughness.png"
+      },
+      {
+        "location": 4,
+        "name": "aoMap",
+        "path" : "textures/crystal1/ao.png"
+      }
+      ]
+    },
+    "TexturePack": {
+    "material": "crystal2",
+    "Textures"  : [
+      {
+        "location": 0,
+        "name": "albedoMap",
+        "path" : "textures/crystal2/albedo.png"
+      },
+      {
+        "location": 1,
+        "name": "normalMap",
+        "path" : "textures/crystal2/normal.png"
+      },
+      {
+        "location": 2,
+        "name": "metallicMap",
+        "path" : "textures/crystal2/metallic.png"
+      },
+      {
+        "location": 3,
+        "name": "roughnessMap",
+        "path" : "textures/crystal2/roughness.png"
+      },
+      {
+        "location": 4,
+        "name": "aoMap",
+        "path" : "textures/crystal2/ao.png"
+      }
+      ]
+    },
+
+    "TexturePack": {
+    "material": "crystal3",
+    "Textures"  : [
+      {
+        "location": 0,
+        "name": "albedoMap",
+        "path" : "textures/crystal3/albedo.png"
+      },
+      {
+        "location": 1,
+        "name": "normalMap",
+        "path" : "textures/crystal3/normal.png"
+      },
+      {
+        "location": 2,
+        "name": "metallicMap",
+        "path" : "textures/crystal3/metallic.png"
+      },
+      {
+        "location": 3,
+        "name": "roughnessMap",
+        "path" : "textures/crystal3/roughness.png"
+      },
+      {
+        "location": 4,
+        "name": "aoMap",
+        "path" : "textures/crystal3/ao.png"
+      }
+      ]
+    }
+
+
+
+
+
+
+}
+
